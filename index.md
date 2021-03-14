@@ -1,9 +1,12 @@
 # JKT48 SNS Archive
 
+**OBSOLETE LIST, KUNJUNGI https://jkt48.vercel.app/docs/archive UNTUK BACKUP TERBARU**
+
 A JKT48 SNS Archival Project.
 
 Proyek oleh [JKT48Discord](https://twitter.com/JKT48Discord) 
 Discord Invite: https://invite.gg/jkt48.
+[![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/BN635Eb)
 
 Uploader: Boim ([@hirolasaa](https://twitter.com/hirolasaa)), Mael ([@maeruuuuu](https://twitter.com/maeruuuuu)), dan Chris ([@penguinwota](https://twitter.com/penguinwota))
 
